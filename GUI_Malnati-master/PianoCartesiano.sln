@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PianoCartesiano", "PianoCartesiano\PianoCartesiano.csproj", "{AEF77460-3663-4941-972A-6558476A7454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF77460-3663-4941-972A-6558476A7454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF77460-3663-4941-972A-6558476A7454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF77460-3663-4941-972A-6558476A7454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF77460-3663-4941-972A-6558476A7454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9976C14D-84B4-416D-915A-291267F92DA6}
+	EndGlobalSection
+EndGlobal

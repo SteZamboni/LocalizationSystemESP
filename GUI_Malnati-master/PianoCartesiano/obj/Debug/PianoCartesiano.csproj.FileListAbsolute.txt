@@ -1,0 +1,37 @@
+C:\Users\user\source\repos\PianoCartesiano\PianoCartesiano\bin\Debug\PianoCartesiano.exe.config
+C:\Users\user\source\repos\PianoCartesiano\PianoCartesiano\bin\Debug\PianoCartesiano.exe
+C:\Users\user\source\repos\PianoCartesiano\PianoCartesiano\bin\Debug\PianoCartesiano.pdb
+C:\Users\user\source\repos\PianoCartesiano\PianoCartesiano\obj\Debug\PianoCartesiano.Form1.resources
+C:\Users\user\source\repos\PianoCartesiano\PianoCartesiano\obj\Debug\PianoCartesiano.Properties.Resources.resources
+C:\Users\user\source\repos\PianoCartesiano\PianoCartesiano\obj\Debug\PianoCartesiano.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PianoCartesiano\PianoCartesiano\obj\Debug\PianoCartesiano.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PianoCartesiano\PianoCartesiano\obj\Debug\PianoCartesiano.exe
+C:\Users\user\source\repos\PianoCartesiano\PianoCartesiano\obj\Debug\PianoCartesiano.pdb
+C:\Users\user\source\repos\PianoCartesiano\PianoCartesiano\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\PianoCartesiano\PianoCartesiano\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\PianoCartesiano\PianoCartesiano\obj\Debug\PianoCartesiano.csproj.CopyComplete
+C:\Users\Patrizio\Source\Repos\GUI_Malnati\PianoCartesiano\bin\Debug\PianoCartesiano.exe.config
+C:\Users\Patrizio\Source\Repos\GUI_Malnati\PianoCartesiano\bin\Debug\PianoCartesiano.exe
+C:\Users\Patrizio\Source\Repos\GUI_Malnati\PianoCartesiano\bin\Debug\PianoCartesiano.pdb
+C:\Users\Patrizio\Source\Repos\GUI_Malnati\PianoCartesiano\bin\Debug\MySql.Data.xml
+C:\Users\Patrizio\Source\Repos\GUI_Malnati\PianoCartesiano\obj\Debug\PianoCartesiano.csprojAssemblyReference.cache
+C:\Users\Patrizio\Source\Repos\GUI_Malnati\PianoCartesiano\obj\Debug\PianoCartesiano.Form1.resources
+C:\Users\Patrizio\Source\Repos\GUI_Malnati\PianoCartesiano\obj\Debug\PianoCartesiano.Properties.Resources.resources
+C:\Users\Patrizio\Source\Repos\GUI_Malnati\PianoCartesiano\obj\Debug\PianoCartesiano.csproj.GenerateResource.cache
+C:\Users\Patrizio\Source\Repos\GUI_Malnati\PianoCartesiano\obj\Debug\PianoCartesiano.csproj.CoreCompileInputs.cache
+C:\Users\Patrizio\Source\Repos\GUI_Malnati\PianoCartesiano\obj\Debug\PianoCartesiano.csproj.CopyComplete
+C:\Users\Patrizio\Source\Repos\GUI_Malnati\PianoCartesiano\obj\Debug\PianoCartesiano.exe
+C:\Users\Patrizio\Source\Repos\GUI_Malnati\PianoCartesiano\obj\Debug\PianoCartesiano.pdb
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\bin\Debug\PianoCartesiano.exe.config
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\bin\Debug\PianoCartesiano.exe
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\bin\Debug\PianoCartesiano.pdb
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\bin\Debug\MySql.Data.dll
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\bin\Debug\MySql.Data.xml
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\obj\Debug\PianoCartesiano.csprojResolveAssemblyReference.cache
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\obj\Debug\PianoCartesiano.Form1.resources
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\obj\Debug\PianoCartesiano.Properties.Resources.resources
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\obj\Debug\PianoCartesiano.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\obj\Debug\PianoCartesiano.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\obj\Debug\PianoCartesiano.csproj.CopyComplete
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\obj\Debug\PianoCartesiano.exe
+C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\GUI_Malnati-master\PianoCartesiano\obj\Debug\PianoCartesiano.pdb
