@@ -1,0 +1,11 @@
+﻿  CollectorESP32.cpp
+c:\users\stefa\desktop\politecnico\programmazione di sistema\progetto\collectoresp32-master\collectoresp32\collectoresp32.cpp(99): warning C4101: 'recvbuf': variabile locale senza riferimenti
+c:\users\stefa\desktop\politecnico\programmazione di sistema\progetto\collectoresp32-master\collectoresp32\collectoresp32.cpp(88): warning C4101: 'dimBuffer': variabile locale senza riferimenti
+c:\users\stefa\desktop\politecnico\programmazione di sistema\progetto\collectoresp32-master\collectoresp32\collectoresp32.cpp(100): warning C4101: 'timebuf': variabile locale senza riferimenti
+c:\users\stefa\desktop\politecnico\programmazione di sistema\progetto\collectoresp32-master\collectoresp32\collectoresp32.cpp(88): warning C4101: 'err': variabile locale senza riferimenti
+c:\users\stefa\desktop\politecnico\programmazione di sistema\progetto\collectoresp32-master\collectoresp32\collectoresp32.cpp(103): warning C4101: 'buffer': variabile locale senza riferimenti
+c:\users\stefa\desktop\politecnico\programmazione di sistema\progetto\collectoresp32-master\collectoresp32\collectoresp32.cpp(88): warning C4101: 'iSendResult': variabile locale senza riferimenti
+c:\users\stefa\desktop\politecnico\programmazione di sistema\progetto\collectoresp32-master\collectoresp32\collectoresp32.cpp(181): warning C4101: 'iSendResult': variabile locale senza riferimenti
+c:\users\stefa\desktop\politecnico\programmazione di sistema\progetto\collectoresp32-master\collectoresp32\collectoresp32.cpp(437): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\stefa\desktop\politecnico\programmazione di sistema\progetto\collectoresp32-master\collectoresp32\collectoresp32.cpp(554): warning C4715: 'readDimension': non tutti i percorsi di controllo restituiscono un valore
+  CollectorESP32.vcxproj -> C:\Users\stefa\Desktop\Politecnico\Programmazione di Sistema\Progetto\CollectorESP32-master\Debug\CollectorESP32.exe
